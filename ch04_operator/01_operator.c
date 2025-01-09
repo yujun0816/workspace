@@ -19,4 +19,7 @@ int main(){
     printf("%.lf\n",apple);
     printf("%d\n",banana);
     printf("%d\n",orange);
+
+    //복합 대입연산자
+    //-=,*=,+=,/=,%=
 }

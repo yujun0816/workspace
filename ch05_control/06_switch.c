@@ -15,6 +15,6 @@ int main(){
             break;
         default:  //조건에 만족하는 case가 없는 경우 실행행
             m=999;
-            break;
+            break;  //스테이지 한거 빼는법 reset
     }
 }

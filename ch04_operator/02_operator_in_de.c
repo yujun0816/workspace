@@ -12,7 +12,8 @@
 int main(){
     int a=5,b=5,pre,post;
     pre=(++a)*2;
-    post=(b++)*2;
+    post=(b++)*2;  //실행후 1더하기
+    
 
     printf("초기값:%d %d\n",a,b);
     printf("전위형:%d\n",pre);
