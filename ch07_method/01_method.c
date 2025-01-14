@@ -13,7 +13,11 @@
  * 매개변수 데이터변환값을 사용하지 않겠다는 의미
  */
 
+//3. 함수선언
+//int sum(int x,int y);
+
 //1. 함수정의
+// 사용자 정의 함수 생성
 int sum(int x,int y){
     int temp;
     temp=x+y;
@@ -25,6 +29,7 @@ int main(){
     int result;
 
     //2. 함수 호출
+    //생성된 함수를 호출해서 사용
     result =sum(a,b);
     printf("%d",result);
 }

@@ -14,7 +14,7 @@ int main(){
         if(num>=1) 
             printf("%d + ",a);
         else
-            printf("%d = %d",a,sum);
+            printf("%d = %d",a,sum);  
 
     }
 
